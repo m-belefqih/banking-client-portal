@@ -82,6 +82,7 @@ Le tout dans une **architecture sécurisée**, avec un **déploiement automatis�
 - Demander un chéquier
 - Soumettre une demande de financement
 - Suivre le statut de ses demandes
+- Contacter l'agence (Système de messagerie)
 
 ---
 
